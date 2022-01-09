@@ -25,5 +25,5 @@ function circleBubbleSort(numbers: number[]): number[]{
     }
     return numbers;
 }
-let list: number[] = [1, 1488, 52, 68, 4];
+let list: number[] = [1, 1468, 52, 68, 4];
 console.log(circleBubbleSort(list));
